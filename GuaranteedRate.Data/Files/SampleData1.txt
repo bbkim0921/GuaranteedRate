@@ -1,0 +1,4 @@
+﻿LastName|FirstName|Email|FavoriteColor|DateOfBirth
+Brady|Tom|tombrady@gmail.com|black|08/03/1977
+Manning|Peyton|peytonmanning@gmail.com|orange|03/24/1976
+Mahomes|Patrick|patrickmahomes@gmail.com|red|09/17/1995

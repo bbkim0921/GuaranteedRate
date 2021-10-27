@@ -1,0 +1,4 @@
+﻿LastName,FirstName,Email,FavoriteColor,DateOfBirth
+Turner,Justin,justinturner@gmail.com,blue,11/23/1984
+Betts,Mookie,mookiebetts@gmail.com,white,10/07/1992
+Bellinger,Cody,codybellinger@gmail.com,gray,07/13/1995

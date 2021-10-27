@@ -1,0 +1,4 @@
+﻿LastName FirstName Email FavoriteColor DateOfBirth
+James Lebron lebronjames@gmail.com purple 12/30/1984
+Curry Stephen stephencurry@gmail.com yellow 03/14/1988
+Jordan Michael michaeljordan@gmail.com red 02/17/1963
